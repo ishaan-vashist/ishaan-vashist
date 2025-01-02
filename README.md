@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a knack for buildi
 ---
 
 ## 🌟 Some of My Favorite Projects:
-### [Vaultriz](hhttps://vaultriz-frontend.vercel.app/)
+### [Vaultriz](https://vaultriz-frontend.vercel.app/)
 A full-stack gaming finance platform enabling gamers to manage payments, earn rewards, and shop seamlessly. Built using Node.js, Express, React, and MongoDB.
 
 ### [Minimizer](https://github.com/ishaan-vashist/minimizer)
