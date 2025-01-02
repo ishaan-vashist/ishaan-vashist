@@ -30,10 +30,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a knack for buildi
 - **Email**: ishaanvashista@gmail.com
 - **LinkedIn**: [Ishaan Vashist](https://www.linkedin.com/in/ishaan-vashist-94b2b0167/)
 
----
-
-## 😄 Pronouns:
-- He/Him
 
 ---
 
